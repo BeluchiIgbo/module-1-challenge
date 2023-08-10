@@ -44,7 +44,9 @@ The following image demonstrates the web application's appearance and functional
 
 * Applicaiton loads with no errors.
 
-* Repositiory contains a quality README file with description, screenshot, and link to deployed application. 
+* Repositiory contains a quality README file with description, screenshot, and link to deployed application.
+  
+* Click [here](https://beluchiigbo.github.io/module-1-challenge/) to go to my Live URL. 
 
 
 ## License
