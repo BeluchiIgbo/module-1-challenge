@@ -49,6 +49,14 @@ The following image demonstrates the web application's appearance and functional
 * Click [here](https://beluchiigbo.github.io/module-1-challenge/) to go to my Live URL. 
 
 
-## License
+## Source
 
-Please refer to the License in the repo.
+* https://www.w3schools.com/html/html5_semantic_elements.asp
+* https://devcracker.medium.com/how-to-add-a-link-or-hyperlink-in-readme-md-file-68752bb6499e
+* https://www.w3schools.com/tags/tag_figure.asp
+* https://www.w3schools.com/html/html_comments.asp
+* https://www.educative.io/answers/how-to-combine-selectors-in-css
+* https://www.quora.com/How-do-I-create-a-hyperlink-in-the-README-file-in-my-GitHub-account-which-would-redirect-to-a-new-page-containing-the-project-explanation
+* https://www.mygreatlearning.com/blog/readme-file/#Q5
+* https://www.yourhtmlsource.com/accessibility/logicalstyle.html
+* https://stackoverflow.com/questions/11915826/image-not-showing-up-in-readme-md-on-github
