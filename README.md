@@ -36,7 +36,7 @@ GIVEN a webpage meets accessibility standards
 
 The following image demonstrates the web application's appearance and functionality:
 
-![](develop/assets/images/final%20webpage.png) 
+![](assets/images/final%20webpage.png) 
 
 ## Review
 
